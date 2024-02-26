@@ -2,6 +2,6 @@
 
 # Education
 
-# Work Experince
+# Work Experience
 
 # Projects
